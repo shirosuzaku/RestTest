@@ -1,9 +1,0 @@
-
-GET http://localhost:8080/image
-
-POST http://localhost:8080/image/12
-Content-Type: application/json
-
-{
-    "imgUri": "http://somelocation.com"
-} j
